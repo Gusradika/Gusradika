@@ -22,3 +22,4 @@ Currently learning <b>HTML, CSS, JS.
  <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" width="40" height="40">
  <img src="https://cdn.worldvectorlogo.com/logos/corel-draw-x8.svg" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="Sony Vegas Pro" width="40" height="40">
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40" height="40">
