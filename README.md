@@ -1,12 +1,12 @@
 <p align="center"center><img src="https://thumbs.gfycat.com/SharpLegitimateBrontosaurus-max-1mb.gif">
 <p align="center">
-### Hi there 👋
+### Hi there 👋 ###
  </p>
 
 <p align="center">
-I am and Graphic Design enthusiast : <b>So ask me anything about Design :D [ID/ENG]</b><br>
-😝 Currently learning more about GIT Command / Workflow and Getting into HTML5 Lang<br>
-<b>GOAL : Full Stack Developer</b>
+Self Taught Graphic Designer<br>
+Intrested in Programming and Team Workflow<br>
+Currently learning <b>HTML, CSS, JS.
 </p><hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
