@@ -5,7 +5,7 @@
  </p>
 
 <p align="center">
-Self Taught Graphic Designer<br>
+Experienced Graphic Designer<br>
 Intrested in Programming and Team Workflow<br>
 Currently learning <b>HTML, CSS, JS.
 </p><hr>
