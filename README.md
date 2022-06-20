@@ -1,13 +1,13 @@
-<img src="https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg">
+<p align="center"center><img src="https://thumbs.gfycat.com/SharpLegitimateBrontosaurus-max-1mb.gif">
 <p align="center">
 ### Hi there 👋
  </p>
 
 <p align="center">
-- 🌱 I’m currently learning Git & Laravel<br>
-- 🤔 I’m looking for help with JAVA-GUI<br>
-- 💬 Ask me about Graphic Design
-</p>
+I am and Graphic Design enthusiast : <b>So ask me anything about Design :D [ID/ENG]</b><br>
+😝 Currently learning more about GIT Command / Workflow and Getting into HTML5 Lang<br>
+<b>GOAL : Full Stack Developer</b>
+</p><hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.instagram.com/adkezo/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="40" width="40" /></a>
