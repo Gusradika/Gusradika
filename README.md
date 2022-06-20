@@ -16,6 +16,7 @@ Currently learning <b>HTML, CSS, JS.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="40" height="40">
+ <img src="https://iconape.com/wp-content/png_logo_vector/oracle-database-logo.png" width="80" height="40"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" width="40" height="40"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" width="40" height="40">
 <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" width="40" height="40">
