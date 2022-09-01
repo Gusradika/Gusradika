@@ -7,7 +7,7 @@
 <p align="center">
 Graphic Design Freelancer<br>
 Intrested in Programming and Team Workflow<br>
-Currently learning <b>HTML, CSS, JS.
+Currently learning <b>PHP & Laravel Framework</b>
 </p><hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
