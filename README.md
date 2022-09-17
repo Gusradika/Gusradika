@@ -1,6 +1,6 @@
-<p align="center"center><img src="https://thumbs.gfycat.com/SharpLegitimateBrontosaurus-max-1mb.gif">
+
 <p align="center">
-<b>### a Student and Meme Enjoyer ###<br>
+<b>### a Student ###<br>
  [ID/ENG]</b>
  </p>
 
