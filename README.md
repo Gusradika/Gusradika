@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MVC, Laravel, Tailwind CSS**
 
-- 💬 Ask me about **Jav**
+- 💬 Ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
