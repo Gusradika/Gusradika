@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusradika&label=Profile%20views&color=0e75b6&style=flat" alt="gusradika" /> </p>
 
-- 🌱 I’m currently learning **MVC, Laravel, Tailwind CSS**
+- 🌱 I’m currently learning **Java Swing, React, REST API**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
