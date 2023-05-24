@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kesuma</h1>
-<h3 align="center">{An Awesome Programmer & Visual Designer}<br><span style="font-size=12">for me learning is not just understanding things. but morely referring into why and how.</span></h3>
+<h3 align="center">{An Awesome Programmer & Visual Designer}<br><span style="font-size=12">for me learning is not just understanding things. but morely referring into definition and how.</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusradika&label=Profile%20views&color=0e75b6&style=flat" alt="gusradika" /> </p>
 
