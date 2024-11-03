@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-%22%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/filament-%23008169.svg?style=for-the-badge&logo=filament&logoColor=white">
 <img src="https://img.shields.io/badge/bulma-%2308B0E8.svg?style=for-the-badge&logo=bulma&logoColor=white">
@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/vuetify-%23E03C31.svg?style=for-the-badge&logo=vuetify&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-%238A2BE2.svg?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/webpack-%238A2BE2.svg?style=for-the-badge&logo=webpack&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
 <h3 align="left">Design Software:</h3>
